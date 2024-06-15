@@ -1,1 +1,1 @@
-# Casos-de-uso-B2C
+# Casos de uso-B2C
